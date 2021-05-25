@@ -1,0 +1,35 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-style: italic;
+  font-weight: 200;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+  line-height: 20px;
+
+}
+h2 { 
+  color: peru;
+  text-align: left;
+  font-weight: 900;
+  font-style: Georgia;
+  font-size: 50px;
+}
+
+ul {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 5%;
+  background: #B6D1C2;
+  width: 50%;
+}
+ul li {
+  font-family: 'Times New Roman', Times, serif;
+  color: Green;
+}
+img {
+  width: 50%;
+  height: auto;
+  border: solid 2px green;
+  padding: 2%;
+}
