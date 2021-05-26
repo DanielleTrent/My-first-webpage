@@ -1,16 +1,16 @@
-# _My-first-webpage_
+# My-first-webpage
 
-#### _Danielle Trent, Gurshan Kaile, Ozzy Onwuzu_
+#### Danielle Trent, Gurshan Kaile, Ozzy Onwuzu
 
-#### _Created my first webpage_
+#### Created my first webpage
 
 ## Technology used
-* _HTML_
-* _css_
+* HTML
+* css
 
 ## Description
 
-_This first webpage was written with the guidence from Epicodus.It contains a link to my favorite things webpage._
+This first webpage was written with the guidence from Epicodus.It contains a link to my favorite things webpage.
 
 ## Setup/Installation Requirements
 
