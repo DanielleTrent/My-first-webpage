@@ -30,7 +30,7 @@ _Copyright(c) 2021 Danielle Trent and Gurshan Kaile and Ozzy Onwuzu_
 
 ## Contact Information
 
-Danielle Trent (danielletrent@yahoo.com)
-Gurshan Kaile (gurshankaile@gmail.com)
-Ozzy Onwuzu (Ozonniaonwuzu@mail.adelphi.edu)
+Danielle Trent danielletrent@yahoo.com
+Gurshan Kaile gurshankaile@gmail.com
+Ozzy Onwuzu Ozonniaonwuzu@mail.adelphi.edu
 
