@@ -1,8 +1,8 @@
-# _{My-first-webpage}_
+# _My-first-webpage_
 
-#### _{Danielle Trent, Gurshan Kaile, Ozzy Onwuzu}_
+#### _Danielle Trent, Gurshan Kaile, Ozzy Onwuzu_
 
-#### _{Created my first webpage}_
+#### _Created my first webpage_
 
 ## Technology used
 * _HTML_
@@ -10,7 +10,7 @@
 
 ## Description
 
-_{This first webpage was written with the guidence from Epicodus.It contains a link to my favorite things webpage.}_
+_This first webpage was written with the guidence from Epicodus.It contains a link to my favorite things webpage._
 
 ## Setup/Installation Requirements
 
@@ -26,7 +26,7 @@ _{This first webpage was written with the guidence from Epicodus.It contains a l
 
 **Epicodus** 
 
-_{Copyright(c) 2021 Danielle Trent and Gurshan Kaile and Ozzy Onwuzu}_ 
+_Copyright(c) 2021 Danielle Trent and Gurshan Kaile and Ozzy Onwuzu_ 
 
 ## Contact Information
 
